@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTM3U
+#EXTINF:-1 group-title="18+",Mainu台
+http://125.227.210.55:51359/VideoInput/play.ts
 #EXTINF:-1 group-title="18+",精艷臺
 http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 #EXTINF:-1 group-title="18+",潘多拉完美臺
