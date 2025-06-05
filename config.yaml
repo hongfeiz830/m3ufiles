@@ -1,0 +1,13 @@
+proxies:
+  - name: test节点
+    type: vless
+    server: testvjust.top
+    port: 443
+    uuid: e0204ea5-52bf-4e3d-be75-d70bdf535f6d
+    cipher: auto
+    tls: true
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: example.com
